@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\SFMLRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2DHelper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Box2DHelper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Boundary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Boundary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2dEmprtyApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Box2dEmprtyApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2dEmptyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Box2dEmptyApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Box2DHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\SFMLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Boundary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6BB0B1-A4AB-4AD7-B2A3-24B0D5ACF155}|2\\2.vcxproj|solutionrelative:2\\Boundary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SFMLRenderer.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\SFMLRenderer.cpp",
+              "RelativeDocumentMoniker": "2\\SFMLRenderer.cpp",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\SFMLRenderer.cpp",
+              "RelativeToolTip": "2\\SFMLRenderer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T12:50:58.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Box2DHelper.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2DHelper.cpp",
+              "RelativeDocumentMoniker": "2\\Box2DHelper.cpp",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2DHelper.cpp",
+              "RelativeToolTip": "2\\Box2DHelper.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T12:49:54.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Box2DHelper.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2DHelper.h",
+              "RelativeDocumentMoniker": "2\\Box2DHelper.h",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2DHelper.h",
+              "RelativeToolTip": "2\\Box2DHelper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T12:49:29.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box2dEmprtyApp.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2dEmprtyApp.h",
+              "RelativeDocumentMoniker": "2\\Box2dEmprtyApp.h",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2dEmprtyApp.h",
+              "RelativeToolTip": "2\\Box2dEmprtyApp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T12:49:08.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SFMLRenderer.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\SFMLRenderer.h",
+              "RelativeDocumentMoniker": "2\\SFMLRenderer.h",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\SFMLRenderer.h",
+              "RelativeToolTip": "2\\SFMLRenderer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T12:48:21.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box2dEmptyApp.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2dEmptyApp.cpp",
+              "RelativeDocumentMoniker": "2\\Box2dEmptyApp.cpp",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Box2dEmptyApp.cpp",
+              "RelativeToolTip": "2\\Box2dEmptyApp.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T12:47:27.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\main.cpp",
+              "RelativeDocumentMoniker": "2\\main.cpp",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\main.cpp*",
+              "RelativeToolTip": "2\\main.cpp*",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvwsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T12:34:07.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Game.h",
+              "RelativeDocumentMoniker": "2\\Game.h",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Game.h",
+              "RelativeToolTip": "2\\Game.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T12:33:54.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Game.cpp",
+              "RelativeDocumentMoniker": "2\\Game.cpp",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Game.cpp",
+              "RelativeToolTip": "2\\Game.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T12:33:44.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Boundary.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Boundary.h",
+              "RelativeDocumentMoniker": "2\\Boundary.h",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Boundary.h",
+              "RelativeToolTip": "2\\Boundary.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T12:33:25.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Boundary.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Boundary.cpp",
+              "RelativeDocumentMoniker": "2\\Boundary.cpp",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Boundary.cpp",
+              "RelativeToolTip": "2\\Boundary.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T12:33:18.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ball.h",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Ball.h",
+              "RelativeDocumentMoniker": "2\\Ball.h",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Ball.h",
+              "RelativeToolTip": "2\\Ball.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-30T12:33:05.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ball.cpp",
+              "DocumentMoniker": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Ball.cpp",
+              "RelativeDocumentMoniker": "2\\Ball.cpp",
+              "ToolTip": "C:\\Users\\santino\\Desktop\\Nueva carpeta\\2\\2\\2\\Ball.cpp",
+              "RelativeToolTip": "2\\Ball.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-30T12:32:57.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

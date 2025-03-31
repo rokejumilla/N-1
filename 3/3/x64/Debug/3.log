@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(513,5): warning MSB8003: La propiedad WindowsSDKDir no está definida. No se encuentran algunas herramientas de compilación.
+  Ball.cpp
+  Box2dEmptyApp.cpp
+  main.cpp
+C:\Users\santino\Desktop\Nueva carpeta\2\3\Externo\box2d\include\Box2D\b2_common.h(28,10): error C1083: No se puede abrir el archivo incluir: 'stddef.h': No such file or directory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\yvals.h(20,10): error C1083: No se puede abrir el archivo incluir: 'crtdbg.h': No such file or directory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\yvals.h(20,10): error C1083: No se puede abrir el archivo incluir: 'crtdbg.h': No such file or directory
+  Obstacle.cpp
+C:\Users\santino\Desktop\Nueva carpeta\2\3\Externo\box2d\include\Box2D\b2_common.h(28,10): error C1083: No se puede abrir el archivo incluir: 'stddef.h': No such file or directory
+  SFMLRenderer.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\yvals.h(20,10): error C1083: No se puede abrir el archivo incluir: 'crtdbg.h': No such file or directory
+  World.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\cstdlib(11,10): error C1083: No se puede abrir el archivo incluir: 'math.h': No such file or directory
+  Generando código...
